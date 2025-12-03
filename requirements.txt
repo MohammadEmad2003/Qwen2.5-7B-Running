@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+pyngrok
+nest_asyncio
+transformers
+torch
+accelerate
